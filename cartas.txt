@@ -1,0 +1,41 @@
+Otorga mas cuatro Multiplicador si la mano jugada contiene un Par.
+Otorga mas cien fichas si la mano jugada es un Color.
+Cada carta con figura jugada otorga mas treinta fichas.
+Otorga mas doce Multiplicador si te queda un descarte al final de la ronda.
+Los de tipo Color y Full de reyes otorgan el doble de fichas.
+Otorga mas ocho Multiplicador por cada carta de Corazones en tu mano.
+Esta carta otorga mas doscientos fichas si la mano contiene una Escalera.
+Esta carta otorga dos descartes si jugaste una Escalera Real.
+Si la carta jugada es Holografica otorga mas diez Multiplicador.
+Si la carta jugada es Policromatica otorga por uno punto cinco Multiplicador.
+Cada As jugado otorga mas cincuenta fichas.
+Cada carta de Picas otorga mas tres Multiplicador.
+Otorga mas veinte fichas por cada Par presente.
+Cada carta de Trebol otorga mas diez fichas.
+Otorga mas ciento cincuenta fichas si la mano jugada es Poker.
+Otorga mas cinco Multiplicador si la mano contiene Trio.
+Otorga mas quince Multiplicador si jugaste Full House.
+Esta carta otorga un descarte adicional al inicio de cada ronda.
+Cada carta impar jugada otorga mas dos Multiplicador.
+Las figuras de Diamantes otorgan el doble de fichas.
+Gana +4 Mult si la mano contiene un As.
+Obtiene X2 Mult cuando se juega una Escalera.
+Duplica las fichas si la mano tiene exactamente tres cartas.
+Cada Rey otorga +20 fichas.
+Pierde 1 Mult al final de la ronda.
+Gana +10 fichas por cada Corazón.
+Si descartas una carta gana X3 Mult.
+Cada carta de trébol aumenta el Mult.
+Obtiene +50 fichas cuando hay un comodín.
+La primera mano de la ronda gana X2 Mult.
+Si juegas un Full House obtiene +40 fichas.
+Cada Diamante aumenta el multiplicador.
+Las cartas de figura ganan +15 fichas.
+Al descartar una carta gana +2 Mult.
+Si la mano contiene cinco cartas distintas obtiene X3 Mult.
+Cada Pica suma +8 fichas.
+Obtiene +30 fichas por cada carta impar.
+La última carta jugada gana X2 Mult.
+Si no descartas cartas obtiene +5 Mult.
+Cada comodín incrementa el multiplicador.
+

@@ -1,23 +1,31 @@
-# Tarea-4-Cadenas-de-Markov 
+# Generación Procedural de Descripciones mediante Cadenas de Markov
 
+## Descripción
 
-# 
-Para programar en PY no es necesario usar ; ni especificar el tipo de variables, ya que PY
-lo hace de forma automatica.
+Proyecto desarrollado en Python para generar descripciones de cartas inspiradas en el juego Balatro utilizando cadenas de Markov.
 
-La forma de "seprarar las cosas" sería normalmente usando llaves, cuando en realidad se usan 
-saltos de linea o tabulaciones, es decir que lo bloques de codigo se indican con indentación y no {}.
+## Requisitos
 
+- Python 3.11 o superior
 
+## Archivos
+--
+- main.py
+- markov.py
+- cartas.txt
 
-Los for(int 1 = 0; i < 3 ; ++i){
-    cout << "Ola" << endl;
-}
+## Ejecución
 
-funcionarían de la siguiente manera
+```bash
+python main.py
+```
 
-for i in range(3):
-    print ("Ola")
+o
 
+```bash
+py main.py
+```
 
-    
+## Salida
+
+El programa genera nuevas descripciones siguiendo el estilo aprendido del corpus de entrenamiento.

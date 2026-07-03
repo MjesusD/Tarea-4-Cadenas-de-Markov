@@ -1,0 +1,7 @@
+==================================================
+DESCRIPCIONES GENERADAS
+==================================================
+
+01. Gana +10 fichas por cada Par presente
+02. Si juegas un Full House obtiene +40 fichas
+03. Cada carta de trébol aumenta el Mult
