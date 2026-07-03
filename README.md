@@ -9,7 +9,6 @@ Proyecto desarrollado en Python para generar descripciones de cartas inspiradas 
 - Python 3.11 o superior
 
 ## Archivos
---
 - main.py
 - markov.py
 - cartas.txt
