@@ -7,21 +7,21 @@ Otorga mas ocho Multiplicador por cada carta de Corazones en tu mano.
 Esta carta otorga mas doscientos fichas si la mano contiene una Escalera.
 Esta carta otorga dos descartes si jugaste una Escalera Real.
 Si la carta jugada es Holografica otorga mas diez Multiplicador.
-Si la carta jugada es Policromatica otorga por uno punto cinco Multiplicador.
+Si la carta jugada es Policromatica otorga 1.5 Multiplicador.
 Cada As jugado otorga mas cincuenta fichas.
 Cada carta de Picas otorga mas tres Multiplicador.
-Otorga mas veinte fichas por cada Par presente.
+Las figuras en tu mano otorgan +2 Mult.
 Cada carta de Trebol otorga mas diez fichas.
 Otorga mas ciento cincuenta fichas si la mano jugada es Poker.
 Otorga mas cinco Multiplicador si la mano contiene Trio.
 Otorga mas quince Multiplicador si jugaste Full House.
 Esta carta otorga un descarte adicional al inicio de cada ronda.
-Cada carta impar jugada otorga mas dos Multiplicador.
+Si no usas ningún descarte en la ronda ganas +15 Mult.
 Las figuras de Diamantes otorgan el doble de fichas.
 Gana +4 Mult si la mano contiene un As.
 Obtiene X2 Mult cuando se juega una Escalera.
 Duplica las fichas si la mano tiene exactamente tres cartas.
-Cada Rey otorga +20 fichas.
+Cada Rey en tu mano otorga +5 Mult.
 Pierde 1 Mult al final de la ronda.
 Gana +10 fichas por cada Corazón.
 Si descartas una carta gana X3 Mult.
@@ -38,4 +38,93 @@ Obtiene +30 fichas por cada carta impar.
 La última carta jugada gana X2 Mult.
 Si no descartas cartas obtiene +5 Mult.
 Cada comodín incrementa el multiplicador.
-
+Cada Reina jugada otorga +30 fichas.
+Gana +5 Mult por cada mano jugada en esta ronda.
+Gana +12 fichas por cada Pica en la mano jugada.
+Si descartas dos cartas del mismo valor gana X2 Mult.
+Cada carta de corazones aumenta el multiplicador en +2.
+Obtiene +80 fichas cuando juegas una carta de oro.
+La segunda mano de la ronda gana X2 Mult.
+Si juegas un Color obtiene +60 fichas.
+Cada carta con sello rojo jugado aumenta el multiplicador en +5.
+Las cartas con sello azul otorgan una carta de planeta al ser descartadas.
+Al descartar una carta de trébol gana +4 fichas.
+Si la mano contiene un As y un Rey obtiene X2 Mult.
+Cada carta de valor par jugada suma +10 fichas.
+Obtiene +40 fichas por cada carta de figura en tu mano.
+La mano con más fichas jugadas en la ronda gana X2 Mult.
+Si usas todos tus descartes obtiene +20 Mult.
+Cada carta de tarot usada en la ronda incrementa el multiplicador en +1.
+Gana +15 Mult si la mano jugada es una Escalera Real.
+Obtiene X3 Mult si juegas una carta holográfica.
+Duplica las fichas ganadas si la mano contiene un Joker.
+Cada Jota jugada otorga +25 fichas.
+Pierde +50 fichas al final de cada ronda jugada.
+Gana +15 fichas por cada Diamante en la mano jugada.
+Si descartas tres cartas de corazones gana X2 Mult.
+Cada carta policromática jugada aumenta el multiplicador en X2.
+Obtiene +100 fichas cuando juegas una carta de acero.
+La primera mano de la ronda otorga +4 descartes adicionales.
+Si juegas una carta de piedra obtiene +50 fichas.
+Cada carta con sello dorado aumenta el multiplicador en +8.
+Las cartas de valor diez otorgan +10 fichas al ser puntuadas.
+Al descartar una carta de diamante gana +3 Mult.
+Si la mano jugada contiene solo cartas pares obtiene X2 Mult.
+Cada carta de valor impar jugada suma +5 fichas.
+Obtiene +20 fichas por cada carta de trébol en tu mano.
+La mano de menor valor jugada gana X3 Mult.
+Si no juegas cartas de figura en la ronda obtiene +10 Mult.
+Cada carta de planeta usada en la ronda incrementa el multiplicador en +2.
+Gana +6 Mult si la mano contiene un Par de Ases.
+Obtiene X2 Mult si juegas una carta de cristal.
+Duplica el multiplicador si la mano contiene un Full House.
+Cada As de picas jugado otorga +50 fichas.
+Gana +2 Mult por cada carta en tu baraja.
+Gana +5 fichas por cada carta en tu mano al final de la ronda.
+Si descartas una mano de color gana X2 Mult.
+Cada carta de valor cinco jugado aumenta el multiplicador en +5.
+Obtiene +200 fichas si juegas un Poker de Ases.
+La mano final de la ronda gana X5 Mult.
+Si juegas un Par obtiene +20 fichas.
+Cada carta con sello púrpura otorga una carta de tarot al ser descartada.
+Las cartas de valor dos otorgan +15 fichas al ser puntuadas.
+Al descartar un As gana +5 Mult.
+Si la mano jugada contiene solo cartas de corazones obtiene X3 Mult.
+Cada carta de valor ocho jugada suma +8 fichas.
+Obtiene +50 fichas por cada carta con sello rojo en tu mano.
+La mano con más descartes restantes gana X2 Mult.
+Si juegas una carta de oro obtiene +3 Mult.
+Cada comodín holográfico incrementa el multiplicador en +10.
+Gana +12 Mult si la mano contiene una Escalera de cuatro cartas.
+Obtiene X3 Mult si juegas una carta de vidrio.
+Duplica las fichas si juegas una carta policromática.
+Cada carta de valor siete jugada otorga +14 fichas.
+Gana +3 Mult por cada compra en la tienda.
+Gana +8 fichas por cada carta comprada en la tienda.
+Si descartas una escalera gana X2 Mult.
+Cada carta de valor nueve jugado aumenta el multiplicador en +9.
+Obtiene +150 fichas si juegas un Full House de figuras.
+La primera mano jugada de cada tienda gana X2 Mult.
+Si juegas un Trio de Reinas obtiene +80 fichas.
+Cada carta con sello de oro otorga una moneda al ser jugada.
+Las cartas de valor tres otorgan +30 fichas al ser puntuadas.
+Al descartar una carta de figura gana +10 fichas.
+Si la mano jugada contiene tres cartas del mismo palo obtiene X2 Mult.
+Cada carta de valor cuatro jugada suma +4 fichas.
+Obtiene +10 fichas por cada carta de valor par en tu mano.
+La mano jugada con un solo descarte restante gana X2 Mult.
+Si no descartas ninguna carta de figura obtiene +8 Mult.
+Cada comodín de lámina incrementa el multiplicador en +50.
+Gana +8 Mult si la mano contiene un Trío.
+Obtiene X4 Mult si la mano jugada es una Escalera de Color.
+Duplica las fichas de la mano si contiene dos pares.
+Gana +25 fichas si juegas una carta con sello rojo.
+Al vender este comodín se duplica el dinero actual.
+Si la ciega seleccionada es una Ciega Grande gana X3 Mult.
+Las cartas de valor seis otorgan +6 Mult al ser puntuadas.
+Gana +15 fichas por cada carta restante en tu baraja de corazones.
+Obtiene X4 Mult si juegas una Escalera Real de Diamantes.
+Cada mano jugada que no contenga figuras otorga +8 Mult.
+Si descartas una mano de tres cartas iguales gana X2 Mult.
+Esta carta otorga +5 Mult por cada mano consecutiva jugada sin descartar.
+Al derrotar una Ciega de Jefe gana +20 monedas de oro.

@@ -2,6 +2,23 @@
 DESCRIPCIONES GENERADAS
 ==================================================
 
-01. Gana +10 fichas por cada Par presente
-02. Si juegas un Full House obtiene +40 fichas
-03. Cada carta de trébol aumenta el Mult
+01. Esta carta otorga dos descartes si jugaste una Escalera de Color
+02. Si juegas una carta de figura en la tienda
+03. Obtiene +20 fichas
+04. Obtiene X4 Mult si juegas una carta con sello dorado aumenta el multiplicador si la mano jugada es una Ciega Grande gana X3 Mult
+05. Si la mano contiene Trio
+06. Obtiene +20 fichas
+07. Gana +5 fichas por cada carta impar
+08. Cada comodín de lámina incrementa el multiplicador en +5
+09. Si usas todos tus descartes obtiene +20 fichas
+10. Cada carta de figura en tu mano al final de la ronda gana X2 Mult
+11. Si usas todos tus descartes obtiene +20 fichas
+12. Gana +12 fichas por cada carta impar
+13. Al descartar una carta de tarot al ser jugada
+14. Duplica las fichas si la mano jugada contiene solo cartas de corazones obtiene X3 Mult
+15. Cada Reina jugada otorga +14 fichas
+16. Obtiene +100 fichas cuando juegas una carta de tarot usada en la mano jugada es Holografica otorga mas treinta fichas
+17. Gana +25 fichas si juegas una carta policromática jugada aumenta el multiplicador en +9
+18. Duplica el multiplicador en +50
+19. Las cartas con sello púrpura otorga una moneda al ser puntuadas
+20. Los de tipo Color y Full de reyes otorgan el doble de fichas
