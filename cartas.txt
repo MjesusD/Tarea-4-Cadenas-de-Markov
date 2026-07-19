@@ -1,4 +1,4 @@
-Otorga mas cuatro Multiplicador si la mano jugada contiene un Par.
++8 Multiplicador si la mano jugada contiene un Par.
 Otorga mas cien fichas si la mano jugada es un Color.
 Cada carta con figura jugada otorga mas treinta fichas.
 Otorga mas doce Multiplicador si te queda un descarte al final de la ronda.

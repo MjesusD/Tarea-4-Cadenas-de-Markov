@@ -2,23 +2,23 @@
 DESCRIPCIONES GENERADAS
 ==================================================
 
-01. Esta carta otorga dos descartes si jugaste una Escalera de Color
-02. Si juegas una carta de figura en la tienda
-03. Obtiene +20 fichas
-04. Obtiene X4 Mult si juegas una carta con sello dorado aumenta el multiplicador si la mano jugada es una Ciega Grande gana X3 Mult
-05. Si la mano contiene Trio
-06. Obtiene +20 fichas
-07. Gana +5 fichas por cada carta impar
-08. Cada comodín de lámina incrementa el multiplicador en +5
-09. Si usas todos tus descartes obtiene +20 fichas
-10. Cada carta de figura en tu mano al final de la ronda gana X2 Mult
-11. Si usas todos tus descartes obtiene +20 fichas
-12. Gana +12 fichas por cada carta impar
-13. Al descartar una carta de tarot al ser jugada
-14. Duplica las fichas si la mano jugada contiene solo cartas de corazones obtiene X3 Mult
-15. Cada Reina jugada otorga +14 fichas
-16. Obtiene +100 fichas cuando juegas una carta de tarot usada en la mano jugada es Holografica otorga mas treinta fichas
-17. Gana +25 fichas si juegas una carta policromática jugada aumenta el multiplicador en +9
-18. Duplica el multiplicador en +50
-19. Las cartas con sello púrpura otorga una moneda al ser puntuadas
-20. Los de tipo Color y Full de reyes otorgan el doble de fichas
+01. Cada comodín de lámina incrementa el multiplicador en +2
+02. Si juegas un Trio de Reinas obtiene +80 fichas
+03. Si descartas una mano de tres cartas iguales gana X2 Mult
+04. Si no usas ningún descarte en la ronda incrementa el multiplicador en +50
+05. Gana +25 fichas si juegas un Full House de figuras
+06. Otorga mas ocho Multiplicador por cada carta comprada en la tienda
+07. La primera mano de la ronda
+08. Gana +5 fichas por cada carta con sello rojo en tu mano
+09. Las cartas de valor diez otorgan +10 fichas al ser puntuadas
+10. Las cartas de valor tres otorgan +30 fichas al ser puntuadas
+11. Las figuras en tu mano otorgan +2 Mult
+12. Las figuras en tu mano otorgan +2 Mult
+13. Obtiene +80 fichas cuando juegas una carta de figura obtiene +8 Mult
+14. Otorga mas cinco Multiplicador si la mano contiene un Trío
+15. Obtiene X4 Mult si la mano contiene una Escalera de cuatro cartas
+16. Duplica las fichas de la mano si contiene dos pares
+17. Gana +8 fichas por cada carta de Corazones en tu mano
+18. Los de tipo Color y Full de reyes otorgan el doble de fichas
+19. Si descartas una carta gana +2 Mult
+20. Las cartas de valor seis otorgan +6 Mult al ser puntuadas

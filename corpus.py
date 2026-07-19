@@ -5,7 +5,10 @@ convertir cada descripción en una lista de tokens.
 
 import re
 
-
+"""
+Esta clase se encarga de cargar al corpus desde un txt y tokenizar cada 
+descripción en una lista de palabras.
+"""
 class CorpusLoader:
 
     def __init__(self):
