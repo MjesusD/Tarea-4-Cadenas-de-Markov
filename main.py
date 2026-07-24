@@ -1,8 +1,15 @@
+import string
 import time
 import sys
 
 from corpus import CorpusLoader
 from markov import MarkovChain
+
+"""
+Para usar otro corpus, cambie el nombre del archivo en la variable filenameCORPUS.
+Asegúrese de que el archivo esté en la misma carpeta que este script
+"""
+
 
 
 def guardar_resultados(resultados, archivo="resultados.txt"):
@@ -48,7 +55,7 @@ def generar_cartas(modelo):
     print("\nResultados guardados en resultados.txt")
 
 
-def menu():
+def menuES():
     print("\n" + "=" * 50)
     print("MENÚ")
     print("=" * 50)
@@ -66,9 +73,19 @@ def main():
     print("Cadena de Markov para cartas tipo Balatro")
     print("=" * 50)
 
+    filenameCORPUS = "cartasES.txt"
   
     # PEDIR ORDEN 
-    
+    while True:
+        try:
+            idioma = int(input("Seleccione idioma del corpus utilziado 1. Español 2. Inglés: "))
+
+            if idioma in (1, 2):
+                break
+            print("El idioma debe ser 1 o 2")
+        except ValueError:
+            print("Ingrese una opción válida.")
+
     while True:
         try:
             orden = int(input("Seleccione el orden de la cadena (1-3): "))
@@ -78,10 +95,15 @@ def main():
         except ValueError:
             print("Ingrese un número válido.")
 
+
     print("\nCargando corpus...")
 
     loader = CorpusLoader()
-    corpus = loader.load("cartas.txt")
+    if idioma == 1:
+        filenameCORPUS = "cartasES.txt"
+    else:
+        filenameCORPUS = "cardsEN.txt"
+    corpus = loader.load(filenameCORPUS) 
 
     print(f"\nDescripciones : {loader.number_of_sentences()}")
     print(f"Palabras      : {loader.total_words()}")
@@ -114,7 +136,7 @@ def main():
 
     while True:
 
-        menu()
+        menuES()
 
         opcion = input("\nSeleccione una opción: ")
 

@@ -2,23 +2,13 @@
 DESCRIPCIONES GENERADAS
 ==================================================
 
-01. Cada comodín de lámina incrementa el multiplicador en +2
-02. Si juegas un Trio de Reinas obtiene +80 fichas
-03. Si descartas una mano de tres cartas iguales gana X2 Mult
-04. Si no usas ningún descarte en la ronda incrementa el multiplicador en +50
-05. Gana +25 fichas si juegas un Full House de figuras
-06. Otorga mas ocho Multiplicador por cada carta comprada en la tienda
-07. La primera mano de la ronda
-08. Gana +5 fichas por cada carta con sello rojo en tu mano
-09. Las cartas de valor diez otorgan +10 fichas al ser puntuadas
-10. Las cartas de valor tres otorgan +30 fichas al ser puntuadas
-11. Las figuras en tu mano otorgan +2 Mult
-12. Las figuras en tu mano otorgan +2 Mult
-13. Obtiene +80 fichas cuando juegas una carta de figura obtiene +8 Mult
-14. Otorga mas cinco Multiplicador si la mano contiene un Trío
-15. Obtiene X4 Mult si la mano contiene una Escalera de cuatro cartas
-16. Duplica las fichas de la mano si contiene dos pares
-17. Gana +8 fichas por cada carta de Corazones en tu mano
-18. Los de tipo Color y Full de reyes otorgan el doble de fichas
-19. Si descartas una carta gana +2 Mult
-20. Las cartas de valor seis otorgan +6 Mult al ser puntuadas
+01. Retrigger all card held in hand gives X1 5 Mult when scored
+02. Each Queen held in hand are Spade suit give +50 Chips if played hand contains a Flush
+03. Adds the number of times poker hand each round
+04. Earn 4 at end of round
+05. +250 Chips 2 hand size 1 hand per round played
+06. +100 Chips if played poker hand contains a Flush
+07. X3 Mult on final hand of round
+08. Create a Tarot card when Blind is selected create 2 Common Jokers
+09. Adds the sell value of all other owned Jokers to Mult
+10. This Joker gains X0 25 Mult every time a Lucky card successfully triggers

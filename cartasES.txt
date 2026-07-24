@@ -1,0 +1,150 @@
++4 Multiplicador
+Las cartas jugadas con el palo de diamantes dan +3 de multiplicador al anotar
+Las cartas jugadas con el palo de corazones dan +3 de multiplicador al anotar
+Las cartas jugadas con el palo de picas dan +3 de multiplicador al anotar
+Las cartas jugadas con el palo de tréboles dan +3 de multiplicador al anotar
++8 Multiplicador si la mano jugada contiene un par
++12 de multiplicador si la mano jugada contiene un trío
++10 de multiplicador si la mano jugada contiene dos pares
++12 Multiplicador si la mano jugada contiene una Escalera
++10 Multiplicador si la mano jugada contiene un color
++50 fichas si la mano jugada contiene una pareja
++100 fichas si la mano jugada contiene un trío
++80 fichas si la mano jugada contiene dos pares
++100 fichas si la mano jugada contiene una escalera
++80 fichas si la mano jugada contiene un color
++20 Multiplicador si la mano jugada contiene 3 o menos cartas
+Multiplicador X1 por cada espacio vacío de Joker Plantilla de Joker incluida
+Todas las escaleras de color y escaleras simples se pueden formar con 4 cartas
+Reactivar todas las habilidades de las cartas que tengas en la mano
+Llegue a tener una deuda de hasta -$20
+Cuando se selecciona la ciega, destruye el Joker de la derecha y agrega permanentemente el doble de su valor de venta a su Mult
++30 fichas por cada descarte restante
++15 Multiplica cuando quedan 0 descartes
+Agrega una carta de Piedra al mazo cuando se selecciona la ciega
+Multiplicador X4 cada 6 manos jugadas
+Hay una probabilidad de 1 entre 4 de que cada 8 jugadas generen unacarta del Tarot al puntuar
++0-23 Multiplicador
+Reactiva todas las cartas jugadas en la mano final de la ronda
+Añade el doble del categoría de la carta de menor categoría que tengas en la mano a Mult	
+1 Reroll gratuitopor tienda
+Cada As, 2, 3, 5 u 8 jugado otorga +8 de multiplicador al anotar
+Otorga X0.2 Mult por cada carta de acero en tu mazo completo
+Las cartas con figuras jugadas dan +30 fichas al anotar
++3 de multiplicador por cadacarta de comodín
+Gana $2 por cada descarte si no se utilizan descartes al final de la ronda
+Reactiva cada vez que se juegue 2, 3, 4 o 5 veces
+Todas las cartas se consideran figuras
++15 Multiplicador 1 en 6 posibilidades de que esta carta sea destruida al final de la ronda
+Las cartas jugadas con categoría par dan +4 de multiplicador al puntuar (10, 8, 6, 4, 2)
+Las cartas jugadas con categoría impar dan +31 fichas al puntuar (A, 9, 7, 5, 3)
+Los ases jugados dan +20 fichas y +4 multiplicador al ser anotados
+Las cartas con figuras jugadas tienen una probabilidad de 1 entre 2 de dar $2 cuando se anotan
+Agrega a Mult el número de veces que se ha jugado la mano de póker en esta ronda
+Este comodín gana +1 multiplicador por cada mano consecutiva jugada sin una carta de figura que anote puntos
+1 entre 4 posibilidades de mejorar el nivel de la mano de póker jugada
+Gana $3 de valor de venta al final de la ronda
+Cuando se selecciona la Ciega , se obtienen +3 manos y se pierden todos los descartes
+Multiplica por 3 si todas las cartas en la mano son picas o tréboles
+Gana +15 fichas si la mano jugada contiene una escalera
++100 fichas -5 fichas por cada mano jugada
+Si la primera mano de la ronda tiene solo 1 carta, agrega una copia permanente al mazo y se saca a la mano
+Cada carta jugada cuenta para la puntuación
++2 fichas por cada carta restante en la baraja
+Si la primera mano de la ronda es un solo 6, destrúyela y crea una carta Espectral
+Este comodín gana X0.1 Mult cada vez que se usa una carta Planeta
+Todas las cartas jugadas ganan para siempre +5 Fichas fichas cuando anotan
+Gana $5 si se descartan 3 o más cartas con figuras al mismo tiempo
++1 Mult por mano jugada -1 Mult por descarte
+Crea una carta del Tarot si tu mano de póker contiene un As y una Escalera
+Gana $4 si tu mano de póker es una [Mano de póker] , la mano de póker cambia al final de la ronda
+X3 Mult, 1 entre 1000 probabilidad de que esta carta sea destruida al final de la ronda
+X3 Mult si la mano de póker jugada ya se ha jugado en esta ronda.
+Este comodín gana +3 de multiplicador cuando se omite cualquier paquete de refuerzo
+Cuando se selecciona la ciega pequeña o la ciega grande, obtiene X0.5 Multi y destruye un comodín al azar
+Este comodín gana +4 fichas si la mano jugada tiene exactamente 4 cartas
+Si la mano de póker es una escalera de color , crea una carta espectral aleatoria
+Cuando se selecciona Ciega, crea 2 comodines comunes
+Este comodín gana X0.1 Mult por cada carta mejorada con puntuación jugada, elimina la carta mejorada
+Permite hacer escaleras con huecos de 1 categoría (ej: 10 8 6 5 3)
+Este comodín gana X0.25 Mult cada vez que se agrega una carta de juego a tu mazo
+Crea una carta del Tarot si se juega una mano con $4 o menos
+Cada rey en tu mano otorga multi X1.5
+Gana $1 por cada 9 en tu baraja completa al final de la ronda
+Gana $1 al final de la ronda. El pago aumenta en $2 cuando se derrota a la ciega jefe
+Este comodín gana X0.2 Mult por cada mano consecutiva jugada sin jugar tu mano de póker más jugada
+Todas las cartas de figura jugadas se vuelven cartas de oro cuando anotan
+Vende esta tarjeta para desactivar la ciega del jefe actual
+La primera carta de figura jugada otorga un multiplicador de x2 al anotar
+Añade $1 de valor de venta a cada carta comodin y consumible al final de la ronda
++5 de tamaño de mano, se reduce en 1 en cada ronda
++4 Mult por cada carta por debajo de [el tamaño inicial de la baraja] en tu baraja completa
+Cada carta con figura en tu mano tiene una probabilidad de 1 entre 2 en otorgar $1
+Gana $5 por cada [categoría] descartado, la categoría cambia en cada ronda
+Gana $1 de interés adicional por cada $5 que tengas al final de la ronda
+Hay una probabilidad de 1 entre 2 de crear una carta del Tarot al abrir cualquier paquete potenciador
++1 Multiplicador porcarta de Tarot utilizada en esta tirada
++1 tamaño de mano
++1 descarte cada ronda
+Otorga +25 fichas por cada carta de Piedra en tu baraja
+Gana $4 al final de la ronda
+Este comodín gana X0.25 Mult cada vez que una carta de la suerte se activa con éxito
+Los comodines poco comunes otorgan cada uno un multiplicador de x1.5
++2 fichas por cada $1 que tengas
+Vende esta tarjeta para crear una etiqueta doble gratuita
+Si el primer descarte de la ronda tiene solo 1 carta, destrúyela y gana $3
+Este Joker obtiene +2 Mult por cada reroll en la tienda
++20 Multiplicador, -4 Multiplicador por ronda jugada
+Este comodín gana +2 de multiplicador si la mano jugada contiene dos pares
+Cada carta jugada con [palo] otorga X1.5 Mult al puntuar, el palo cambia al final de la ronda
+Multiplicador X2 , pierde 0,01 multiplicador por cada carta descartada
+Cada jugada de 10 o 4 da +10 fichas y +4 multiplicador al anotar
+Reactiva todas las cartas jugadas durante las próximas 10 manos
+Este comodín gana +3 fichas por cada carta [de palo] descartada, el palo cambia en cada ronda
+Las cartas con figuras jugadas otorgan +5 de multiplicador al anotar
+Este Joker gana X0.25 Mult por cada carta vendida, se reinicia cuando ciega jefe es derrotado
+Las tarjetas Gold jugadas ganan $4 cuando se anotan puntos
+Evita la muerte si las fichas obtenidas son al menos un 25% de lo requerido, se autodestruye
+Multiplicador X3 en la mano final de la ronda
+Reactivar todas las cartas con figuras jugadas
+Agrega el valor de venta de todos los demás Jokers poseídos a Mult
++2 de tamaño de mano, -1 de mano por ronda
+Cuando comience la ronda, añade a tu mano una carta de juego aleatoria con un sello aleatorio
+Corazones y Diamantes cuentan como el mismo palo, Picas y Tréboles cuentan como el mismo palo
+Multiplicador de X0,25 por cada Blind omitido en esta ronda
+Reactiva la primera carta jugada al anotar 2 veces adicionales
+Las cartas jugadas con el palo de diamantes ganan $1 cuando se anotan puntos.icono del traje de diamantes
+Hay una probabilidad de 1 entre 2 de que las cartas jugadas del palo de corazones den un multiplicador de x1.5 al obtener una puntuación
+Las cartas jugadas con el palo de picas dan +50 fichas al anotar
+Las cartas jugadas con el palo de tréboles dan +7 de multiplicador al anotar
+Este Joker gana X0.75 Mult por cada carta de cristal que se destruya
+Las cartas Joker, Tarot, Planeta y Espectral pueden aparecer varias veces
+Multiplica por 3 si la mano de póker contiene una carta de Diamantes, una carta de Tréboles, una carta de Corazones y una carta de Picas 
+Copia la habilidad del Joker a la derecha
+Este comodín gana +8 fichas cuando cada 2 jugado anota
++3 descartes por ronda, -1 tamaño de mano
+Duplica todas las probabilidades (ejemplo: 1 de 3 -> 2 de 3)
+Cada [categoría] jugado de [palo] otorga X2 Mult al anotar. La carta cambia en cada ronda
+Multiplicador de 2 si la mano jugada tiene una carta de trébol que anote puntos y una carta de cualquier otro palo que anote puntos
+Gana $8 si la mano jugada activa la habilidad ciega jefe
+Este comodín gana X0.5 Mult por cada jota descartada en esta ronda
+Multiplica por 2 si la mano jugada contiene un par
+Multiplicador de 3 si la mano jugada contiene un trío
+Multiplicador de 4 si la mano jugada contiene un póquer
+Multiplicador de 3 si la mano jugada contiene una escalera
+Multiplica por 2 si la mano jugada contiene un color
++250 fichas, -2 tamaño de mano
+Después de 2 rondas vende esta carta para duplicar un comodín aleatorio
+Copia la habilidad del comodín del extremo izquierdo
+Gana $1 al final de la ronda por cada tarjeta Planeta única utilizada en esta partida
+Cada reina sostenida en la mano otorga +13 Mult
+Multiplica por 3 si tienes al menos 16 cartas mejoradas en tu mazo completo
+Genera una carta de tarot cuando se selecciona la ciega (Debe haber espacio)
+Todas las cartas de planetas y paquetes celestiales de la tienda son gratis
+Mejora el nivel de la primera mano de póker descartada en cada ronda
++2 multiplicador por cada $5 que tengas
+Este comodín obtiene X1 Multi cuando se destruye una carta de figura
+Los reyes y las reinas jugados otorgan X2 Multi cuando anotan
+Este comodín obtiene X1 Multi cada 23 [23] cartas descartadas
+Inhabilita el efecto de cada ciega jefe
+Genera una copia negativa de 1 carta consumible al azar

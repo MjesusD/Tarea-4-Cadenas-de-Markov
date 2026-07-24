@@ -25,7 +25,7 @@ class CorpusLoader:
         """
         Retorna una lista de listas de palabras.
         """
-
+        
         self.sentences.clear()
         self.vocabulary.clear()
 
