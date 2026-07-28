@@ -16,9 +16,11 @@ class CorpusLoader:
         self.vocabulary = set()
 
     def tokenize(self, text):
-
-        tokens = re.findall(r"\+\d+|X\d+|\w+", text)
-
+        """
+        Tokeniza el texto conservando valores como X0.25 o +3.5 como un solo token.
+        """
+        pattern = r"\+\d+(?:[.,]\d+)?|X\d+(?:[.,]\d+)?|[^\W\d_]+|\d+(?:[.,]\d+)?"
+        tokens = re.findall(pattern, text, flags=re.UNICODE)
         return tokens
 
     def load(self, filename):

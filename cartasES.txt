@@ -23,11 +23,11 @@ Cuando se selecciona la ciega, destruye el Joker de la derecha y agrega permanen
 +15 Multiplica cuando quedan 0 descartes
 Agrega una carta de Piedra al mazo cuando se selecciona la ciega
 Multiplicador X4 cada 6 manos jugadas
-Hay una probabilidad de 1 entre 4 de que cada 8 jugadas generen unacarta del Tarot al puntuar
+Hay una probabilidad de 1 entre 4 de que cada 8 jugadas generen una carta del Tarot al puntuar
 +0-23 Multiplicador
 Reactiva todas las cartas jugadas en la mano final de la ronda
 Añade el doble del categoría de la carta de menor categoría que tengas en la mano a Mult	
-1 Reroll gratuitopor tienda
+1 cambio gratuito por tienda
 Cada As, 2, 3, 5 u 8 jugado otorga +8 de multiplicador al anotar
 Otorga X0.2 Mult por cada carta de acero en tu mazo completo
 Las cartas con figuras jugadas dan +30 fichas al anotar
@@ -111,7 +111,7 @@ Agrega el valor de venta de todos los demás Jokers poseídos a Mult
 +2 de tamaño de mano, -1 de mano por ronda
 Cuando comience la ronda, añade a tu mano una carta de juego aleatoria con un sello aleatorio
 Corazones y Diamantes cuentan como el mismo palo, Picas y Tréboles cuentan como el mismo palo
-Multiplicador de X0,25 por cada Blind omitido en esta ronda
+Multiplicador de X0.25 por cada ciega omitido en esta ronda
 Reactiva la primera carta jugada al anotar 2 veces adicionales
 Las cartas jugadas con el palo de diamantes ganan $1 cuando se anotan puntos.icono del traje de diamantes
 Hay una probabilidad de 1 entre 2 de que las cartas jugadas del palo de corazones den un multiplicador de x1.5 al obtener una puntuación
