@@ -1,0 +1,107 @@
+==================================================
+DESCRIPCIONES GENERADAS
+==================================================
+Idioma: Español
+Orden: 3
+==================================================
+
+01. Las cartas jugadas con el palo de picas dan +50 fichas al anotar
+02. Crea una carta del Tarot si se juega una mano con 4 o menos
+03. +10 de multiplicador si la mano jugada contiene un par
+04. Los ases jugados dan +20 fichas y +4 multiplicador al ser anotados
+05. Multiplicador de 3 si la mano jugada contiene una escalera
+06. +100 fichas si la mano jugada contiene una Escalera
+07. Añade 1 de valor de venta a cada carta comodin y consumible al final de la ronda
+08. Copia la habilidad del comodín del extremo izquierdo
+09. Cuando comience la ronda añade a tu mano una carta de trébol que anote puntos y una carta de figura jugada otorga un multiplicador de x 2 al anotar
+10. +1 Mult por mano jugada 1 Mult por descarte
+11. Agrega una carta de Piedra en tu baraja completa al final de la ronda
+12. Multiplicador X1 por cada espacio vacío de Joker Plantilla de Joker incluida
+13. +80 fichas si la mano jugada contiene un trío
+14. Este Joker gana X0.25 Mult por cada mano consecutiva jugada sin jugar tu mano de póker es una Mano de póker la mano de póker es una Mano de póker
+15. Las cartas jugadas con el palo de diamantes ganan 1 cuando se anotan puntos
+16. Las cartas con figuras al mismo tiempo
+17. +1 Multiplicador porcarta de Tarot utilizada en esta tirada
+18. Este comodín gana +4 fichas si la mano jugada tiene exactamente 4 cartas
+19. Multiplica por 2 si la mano jugada contiene un trío
+20. La primera carta de figura
+21. +1 tamaño de mano
+22. Cada reina sostenida en la mano final de la ronda
+23. Duplica todas las probabilidades ejemplo 1 de 3 2 de 3
+24. Cada As 2 3 5 u 8 jugado otorga +8 de multiplicador al anotar
+25. +5 de tamaño de mano 1 de mano por ronda
+26. Vende esta tarjeta para crear una etiqueta doble gratuita
+27. Multiplicador de X0.25 por cada ciega omitido en esta ronda
+28. Gana 8 si la mano jugada tiene exactamente 4 cartas
+29. Vende esta tarjeta para desactivar la ciega del jefe actual
+30. Todas las cartas se consideran figuras
+31. +12 Multiplicador si la mano de póker contiene una carta de Diamantes una carta de juego a tu mazo
+32. Si el primer descarte de la ronda por cada tarjeta Planeta única utilizada en esta tirada
+33. Cada jugada de 10 o 4 da +10 fichas y +4 multiplicador al anotar
+34. +80 fichas si la mano jugada contiene una Escalera
+35. +30 fichas por cada 1 que tengas
+36. +80 fichas si la mano jugada tiene exactamente 4 cartas
+37. Añade el doble del categoría de la carta de menor categoría que tengas en la mano final de la ronda por cada tarjeta Planeta única utilizada en esta partida
+38. Las cartas con figuras jugadas dan +30 fichas al anotar
+39. +100 fichas si la mano jugada contiene un par
+40. Multiplica por 3 si tienes al menos 16 cartas mejoradas en tu mazo completo
+41. Este Joker gana X0.75 Mult por cada carta restante en la baraja
+42. +1 descarte cada ronda
+43. +8 Multiplicador si la mano jugada contiene dos pares
+44. Duplica todas las probabilidades ejemplo 1 de 3 2 de 3
+45. Este comodín gana +8 fichas cuando cada 2 jugado anota
+46. +100 fichas 5 fichas por cada descarte restante
+47. +15 Multiplicador 1 en 6 posibilidades de que esta carta sea destruida al final de la ronda
+48. Reactivar todas las habilidades de las cartas que tengas en la mano son picas o tréboles
+49. Agrega a Mult el número de veces que se ha jugado la mano de póker contiene un As y una Escalera
+50. Todas las cartas de planetas y paquetes celestiales de la tienda son gratis
+51. Todas las cartas de planetas y paquetes celestiales de la tienda son gratis
+52. Los reyes y las reinas jugados otorgan X2 Multi cuando anotan
+53. Multiplica por 3 si tienes al menos 16 cartas mejoradas en tu mazo completo
+54. Multiplica por 2 si la mano jugada contiene un par
+55. Este comodín gana +4 fichas si la mano de póker cambia al final de la ronda
+56. Si la primera mano de la ronda
+57. Gana 1 de interés adicional por cada 5 que tengas al final de la ronda El pago aumenta en 2 cuando se anotan
+58. +80 fichas si la mano jugada tiene una carta de Piedra en tu baraja completa al final de la ronda
+59. Este comodín gana +3 fichas por cada carta de acero en tu mazo completo
+60. Las cartas jugadas con el palo de picas dan +50 fichas al anotar
+61. +50 fichas si la mano jugada contiene un póquer
+62. +1 Multiplicador porcarta de Tarot utilizada en esta tirada
+63. Las cartas jugadas con el palo de tréboles dan +3 de multiplicador al puntuar 10 8 6 4 2
+64. Todas las escaleras de color y escaleras simples se pueden formar con 4 cartas
+65. Gana 4 si tu mano de póker cambia al final de la ronda
+66. X3 Mult 1 entre 1000 probabilidad de que esta carta sea destruida al final de la ronda por cada tarjeta Planeta única utilizada en esta tirada
+67. Las cartas Joker Tarot Planeta y Espectral pueden aparecer varias veces
+68. Las cartas jugadas con el palo de corazones dan +3 de multiplicador al anotar
+69. Cada carta jugada con palo otorga X1.5 Mult al puntuar el palo cambia en cada ronda
+70. Este comodín gana X0.25 Mult cada vez que se usa una carta Planeta
+71. +2 fichas por cada carta de acero en tu mazo completo
+72. Este comodín gana X0.2 Mult por cada jota descartada en esta ronda
+73. +20 Multiplicador 4 Multiplicador por ronda jugada
+74. Multiplica por 2 si la mano jugada contiene un póquer
+75. Reactivar todas las habilidades de las cartas que tengas en la mano final de la ronda tiene solo 1 carta destrúyela y gana 3
+76. Cada carta jugada con palo otorga X1.5 Mult al puntuar el palo cambia en cada ronda
+77. Cada rey en tu mano otorga multi X1.5
+78. Gana 4 si tu mano de póker jugada
+79. Gana 4 al final de la ronda
+80. Cada carta jugada con palo otorga X1.5 Mult al puntuar el palo cambia al final de la ronda
+81. Este comodín gana X0.25 Mult por cada carta de palo descartada el palo cambia en cada ronda
+82. Cada reina sostenida en la mano son picas o tréboles
+83. Gana 3 de valor de venta de todos los demás Jokers poseídos a Mult
+84. Agrega una carta de trébol que anote puntos
+85. Reactivar todas las habilidades de las cartas que tengas en la mano final de la ronda
+86. Gana +15 fichas si la mano jugada contiene una escalera
+87. Mejora el nivel de la primera mano de póker descartada en cada ronda
+88. Las tarjetas Gold jugadas ganan 4 cuando se anotan
+89. +2 multiplicador por cada carta restante en la baraja
+90. +1 descarte cada ronda
+91. Agrega el valor de venta al final de la ronda es un solo 6 destrúyela y crea una carta Espectral
+92. Las cartas jugadas con el palo de diamantes ganan 1 cuando se anotan
+93. Copia la habilidad del comodín del extremo izquierdo
+94. Este comodín gana X0.1 Mult por cada carta mejorada con puntuación jugada elimina la carta mejorada
+95. Agrega una carta de figura
+96. Este comodín gana +3 de multiplicador al anotar
+97. Gana 1 al final de la ronda tiene solo 1 carta destrúyela y gana 3
+98. Hay una probabilidad de 1 entre 4 posibilidades de mejorar el nivel de la mano de póker contiene una carta de la suerte se activa con éxito
+99. Inhabilita el efecto de cada ciega jefe
+100. Gana +15 fichas si la mano jugada contiene un par

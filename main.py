@@ -12,15 +12,22 @@ Asegúrese de que el archivo esté en la misma carpeta que este script
 
 
 
-def guardar_resultados(resultados, archivo="resultados.txt"):
-    with open(archivo, "w", encoding="utf-8") as f:
+def guardar_resultados(resultados, idioma, orden, archivo=None):
+    idioma_nombre = "Español" if idioma == 1 else "Inglés"
+    archivo = archivo or f"resultados_{'es' if idioma == 1 else 'en'}_orden{orden}.txt"
 
+    with open(archivo, "w", encoding="utf-8") as f:
         f.write("=" * 50 + "\n")
         f.write("DESCRIPCIONES GENERADAS\n")
+        f.write("=" * 50 + "\n")
+        f.write(f"Idioma: {idioma_nombre}\n")
+        f.write(f"Orden: {orden}\n")
         f.write("=" * 50 + "\n\n")
 
         for i, descripcion in enumerate(resultados, start=1):
             f.write(f"{i:02d}. {descripcion}\n")
+
+    return archivo
 
 
 def memoria_modelo(modelo):
@@ -36,7 +43,7 @@ def memoria_modelo(modelo):
     return total
 
 
-def generar_cartas(modelo):
+def generar_cartas(modelo, idioma, orden):
 
     cantidad = int(input("\n¿Cuántas cartas desea generar?: "))
 
@@ -51,8 +58,8 @@ def generar_cartas(modelo):
         resultados.append(descripcion)
         print(f"{i+1:02d}. {descripcion}")
 
-    guardar_resultados(resultados)
-    print("\nResultados guardados en resultados.txt")
+    archivo = guardar_resultados(resultados, idioma, orden)
+    print(f"\nResultados guardados en {archivo}")
 
 
 def menuES():
@@ -147,7 +154,7 @@ def main():
             modelo.print_example_states()
 
         elif opcion == "3":
-            generar_cartas(modelo)
+            generar_cartas(modelo, idioma, orden)
 
         elif opcion == "4":
             modelo.generate_demo()
