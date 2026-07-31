@@ -1,0 +1,107 @@
+==================================================
+DESCRIPCIONES GENERADAS
+==================================================
+Idioma: Inglés
+Orden: 2
+==================================================
+
+01. +2 Mult per consecutive hand played
+02. Played Aces give +20 Chips and +4 Mult
+03. +50 Chips when scored
+04. +5 hand size
+05. Gains 3 of sell value of all other owned Jokers to Mult
+06. All cards are considered face cards become Gold cards earn 4 when scored
+07. This Joker gains X1 Mult when 0 discards remaining
+08. +2 Chips for every Glass Card that is destroyed
+09. This Joker gains +3 Chips per discarded suit card suit changes at end of round per unique Planet card is used
+10. X3 Mult if played hand has already been played this round
+11. This Joker gains +3 Chips per discarded suit card suit changes every round
+12. Create a Tarot card when Blind is selected create 2 Common Jokers
+13. Played Aces give +20 Chips and +4 Mult for every 5 you have at least 16 Enhanced cards in your full deck
+14. Retrigger all cards played for the next 10 hands
+15. 1 in 4 chance to create a Tarot card when Blind is selected gain X0.5 Mult for each discarded rank rank changes every round
+16. Retrigger all card held in hand has exactly 4 cards
+17. When round begins add a permanent copy to deck and draw it to hand
+18. Creates a Negative copy of 1 random consumable card in deck
+19. This Joker gains +1 Mult per card discarded
+20. +15 Mult 1 in 4 chance for played cards with Diamond suit icon Spades or Club suit give +3 Mult when scored
+21. +20 Mult 4 Mult per round
+22. X0.25 Mult every time a Lucky card successfully triggers
+23. Hearts and Diamonds counts as the same time
+24. Earn 4 at end of round
+25. Each played rank of suit gives X2 Mult loses X0.01 Mult per card discarded
+26. This Joker gains +8 Chips when scored
+27. Retrigger all cards played for the next 10 hands
+28. Each played 10 or 4 gives +10 Chips and +4 Mult for each Stone Card in your full deck
+29. X3 Mult if played hand triggers the Boss Blind is selected destroy Joker to the deck when Blind is defeated
+30. Allows Straights to be made with gaps of 1 rank ex 10 8 6 5 3
+31. When round begins add a permanent copy to deck and draw it to hand
+32. Retrigger all cards played for the next 10 hands
+33. Copies the ability of leftmost Joker
+34. +20 Mult if played hand contains a Flush
+35. This Joker gains X0.25 Mult every time a Lucky card successfully triggers
+36. This Joker gains X1 Mult when scored A 9 7 5 3
+37. Earn 4 if poker hand changes at end of the round
+38. Prevents Death if chips scored are at least 16 Enhanced cards in final hand of round
+39. Played cards with Heart suit icon Club card Heart card and a scoring face card held in hand has been played this run
+40. +1 hand size reduces by 1 each round
+41. Each played Ace 2 3 4 or 5
+42. Copies ability of Joker to the right
+43. Played face cards become Gold cards earn 4 when scored A 9 7 5 3
+44. Earn 5 if 3 or fewer cards
+45. This Joker gains +3 Mult when scored
+46. X3 Mult if played hand triggers the Boss Blind is selected create 2 Common Jokers
+47. Adds one Stone card to Duplicate a random Joker Currently 0 2 Removes Negative from copy
+48. 1 in 1000 chance this card to Duplicate a random playing card with suit gives X1.5 Mult
+49. Every played card counts in scoring
+50. When Blind is selected gain X0.5 Mult and destroy a random Spectral card
+51. Earn an extra 1 of interest for every Glass Card that is destroyed
+52. This Joker gains +8 Chips when scored Card changes every round
+53. All Flushes and Straights can be made with 4 or less
+54. When Small Blind or Big Blind is selected create 2 Common Jokers
+55. This Joker gains X0.1 Mult per Tarot card when any Booster Pack is skipped
+56. This Joker gains +2 Mult if played hand contains a Two Pair
+57. +80 Chips if played hand contains a Pair
+58. Retrigger all card held in hand to Mult
+59. X3 Mult if played hand contains an Ace and a Straight
+60. Retrigger all played cards in your full deck
+61. Played cards with Spade suit icon Heart suit icon Spade suit give +50 Chips if played hand contains a Three of a Kind
+62. X0.25 Mult every time a Lucky card successfully triggers
+63. +4 Mult
+64. This Joker gains X0.25 Mult for each Blind skipped this run
+65. X2 Mult when scored A 9 7 5 3
+66. Earn an extra 1 of interest for every 5 you have at least 25 of required chips self destructs
+67. When Blind is selected gain +3 Hands and lose all discards
+68. X1 Mult for each remaining discard
+69. Upgrade the level of played poker hand is a single 6 destroy it and create a Tarot card used this run to Mult
+70. All Planet cards and Celestial Packs in the shop are free
+71. +2 Mult for each Stone Card in your possession at the end of the shop
+72. If poker hand each round
+73. +20 Mult 4 Mult per discard if no discards are used by end of round
+74. Doubles all listed probabilities ex 1 in 2 chance to create a free Double Tag
+75. This Joker gains X0.25 Mult every time a Planet card used in scoring
+76. Earn 1 at end of round has only 1 card destroy it and earn 3
+77. Copies ability of Joker to the right and permanently add double its sell value to every Joker and Consumable card at end of round per unique Planet card used this
+78. +12 Mult if played hand contains a Pair
+79. +100 Chips if played hand contains an Ace and a Straight
+80. Earn 8 if played hand contains a Three of a Kind
+81. Each played rank of suit gives X1.5 Mult
+82. If first hand of round
+83. +3 discards each round 1 hand size
+84. 1 in 4 chance for played cards in your full deck
+85. Played cards with Heart suit icon Spades or Club suit give +7 Mult when scored suit changes at end of round
+86. X2 Mult loses X0.01 Mult per scoring Enhanced card played removes card Enhancement
+87. When round begins add a random Spectral card
+88. 1 in 2 chance to create a random Joker
+89. This Joker gains +2 Mult for every Glass Card that is destroyed at the end of round
+90. X3 Mult if played hand contains a Pair
+91. If first discard of round has only 1 card destroy it and create a Tarot card if poker hand is a Straight Flush create a Spectral card
+92. Played face cards give +30 Chips when scored
+93. Earn 8 if played hand has already been played this run to Mult
+94. Earn 5 if 3 or more face cards give +5 Mult when scored
+95. X2 Mult if played poker hand contains a Pair
+96. +1 Mult per reroll in the shop
+97. First played face cards become Gold cards when scored
+98. +8 Mult when scored
+99. Joker Tarot Planet and Spectral cards may appear multiple times
+100. 1 in 6 chance this card to the deck s starting size in your full deck

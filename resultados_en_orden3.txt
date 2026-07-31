@@ -1,0 +1,107 @@
+==================================================
+DESCRIPCIONES GENERADAS
+==================================================
+Idioma: Inglés
+Orden: 3
+==================================================
+
+01. Retrigger all cards played for the next 10 hands
+02. Each played rank of suit gives X2 Mult when scored
+03. +2 hand size 1 hand per round
+04. Joker Tarot Planet and Spectral cards may appear multiple times
+05. +30 Chips for each remaining discard
+06. +3 Mult for each Joker card
+07. +20 Mult 4 Mult per round played
+08. This Joker gains +3 Chips per discarded suit card suit changes every round
+09. +12 Mult if played hand contains a Flush
+10. +2 Chips for each remaining card in deck
+11. This Joker gains X0.5 Mult for every 5 you have
+12. All cards are considered face cards
+13. X3 Mult if played hand contains a Flush
+14. +2 hand size 1 hand per round
+15. X4 Mult every 6 hands played 5 remaining
+16. All played face cards become Gold cards when scored
+17. Played face cards give +30 Chips when scored
+18. +3 Mult for each Steel Card in your full deck
+19. +4 Mult for each Blind skipped this run
+20. +1 discard each round
+21. Retrigger all card held in hand to Mult
+22. +5 hand size reduces by 1 each round
+23. When round begins add a random playing card with a random seal to your hand
+24. Doubles all listed probabilities ex 1 in 3 2 in 3
+25. +3 Mult for each Steel Card in your full deck
+26. +1 Mult per consecutive hand played without a scoring face card
+27. Each played 10 or 4 gives +10 Chips and +4 Mult when scored
+28. Played cards with Spade suit icon Spade suit give +50 Chips when scored
+29. +1 Mult per Tarot card used this run
+30. This Joker gains +2 Mult per reroll in the shop are free
+31. When Blind is selected gain +3 Hands and lose all discards
+32. +10 Mult if played hand contains a Three of a Kind
+33. This Joker gains X0.5 Mult for every Jack discarded this round
+34. Create a Tarot card when scored
+35. Played cards with Diamond suit icon Diamond suit earn 1 when scored
+36. Played cards with Diamond suit icon Diamond suit earn 1 when scored
+37. Add 1 of sell value to every Joker and Consumable card at end of round
+38. This Joker gains X0.1 Mult per scoring Enhanced card played removes card Enhancement
+39. This Joker gains +4 Chips if played hand contains a Four of a Kind
+40. This Joker gains X0.25 Mult for each card sold resets when Boss Blind is defeated
+41. Create a Tarot card when Blind is selected
+42. +1 hand size
+43. Played cards with Diamond suit icon Diamond suit give +3 Mult when scored
+44. Retrigger all card held in hand abilities
+45. Earn an extra 1 of interest for every 5 you have
+46. When Blind is selected destroy Joker to the right
+47. Sell this card to Duplicate a random Joker Currently 0 2 Removes Negative from copy
+48. Each played 10 or 4 gives +10 Chips and +4 Mult when scored
+49. Uncommon Jokers each give X1.5 Mult
+50. +4 Mult for each Joker card
+51. Disables effect of every Boss Blind
+52. +15 Mult when 0 discards remaining
+53. Earn 4 if poker hand contains an Ace and a Straight
+54. Earn 5 if 3 or more face cards are discarded at the same time
+55. Played cards with Diamond suit icon Diamond suit give +3 Mult when scored
+56. This Joker gains +4 Chips if played hand contains a Straight
+57. +4 Mult for each Blind skipped this run
+58. Adds the sell value of all other owned Jokers to Mult
+59. +250 Chips 2 hand size
+60. X2 Mult if played hand contains a Flush
+61. Played face cards give +5 Mult when scored
+62. +80 Chips if played hand contains a Flush
+63. Each played Ace 2 3 5 or 8 gives +8 Mult when scored 10 8 6 5 3
+64. Adds double the rank of lowest ranked card held in hand are Spade suit icon Spade suit give +3 Mult when scored
+65. Every played card counts in scoring
+66. +2 Chips for each 1 you have
+67. Each played Ace 2 3 5 or 8 gives +8 Mult when scored Card changes every round
+68. Retrigger all played face cards
+69. Earn 1 at end of round
+70. All played face cards
+71. +10 Mult if played hand has a 1 in 2 chance for played cards with Heart suit icon Heart suit to give X1.5 Mult
+72. Copies the ability of leftmost Joker
+73. Played cards with Heart suit icon Heart suit give +3 Mult when scored
+74. This Joker gains X0.1 Mult every time a Lucky card successfully triggers
+75. This Joker gains X0.1 Mult per scoring Enhanced card played removes card Enhancement
+76. This Joker gains +2 Mult if played hand contains a Pair
+77. Played cards with Diamond suit icon Diamond suit give +3 Mult when any Booster Pack is opened
+78. Adds double the rank of lowest ranked card held in hand gives +13 Mult
+79. When Blind is selected destroy Joker to the right and permanently add double its sell value to it s Mult
+80. Adds the sell value of all other owned Jokers to Mult
+81. X2 Mult if played hand contains a Straight
+82. +10 Mult if played hand triggers the Boss Blind ability
+83. If first hand of round
+84. X2 Mult loses X0.01 Mult per card discarded
+85. Adds double the rank of lowest ranked card held in hand to Mult
+86. Create a Tarot card when any Booster Pack is skipped
+87. This Joker gains +1 Mult per Tarot card used this run
+88. +4 Mult for each Blind skipped this run
+89. Retrigger all cards played for the next 10 hands
+90. Hearts and Diamonds counts as the same suit Spades and Clubs count as the same suit Spades and Clubs count as the same suit Spades and Clubs count as the
+91. Every played card permanently gains +5 Chips when scored A 9 7 5 3
+92. Played Kings and Queens each give X2 Mult when scored
+93. +1 hand size
+94. Sell this card to create a free Double Tag
+95. X3 Mult if poker hand contains an Ace and a Straight
+96. Adds the number of times poker hand has been played this round
+97. Each Queen held in hand gives X1.5 Mult
+98. X3 Mult if all cards held in hand has a scoring Club suit icon Clubs
+99. This Joker gains +2 Mult if played hand has a scoring Club suit icon Clubs
+100. This Joker gains +4 Chips if played hand contains a Flush
