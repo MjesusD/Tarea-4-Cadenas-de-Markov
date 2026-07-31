@@ -4,6 +4,8 @@ import sys
 
 from corpus import CorpusLoader
 from markov import MarkovChain
+from evaluador import evaluar_archivo
+
 
 """
 Para usar otro corpus, cambie el nombre del archivo en la variable filenameCORPUS.
@@ -60,6 +62,8 @@ def generar_cartas(modelo, idioma, orden):
 
     archivo = guardar_resultados(resultados, idioma, orden)
     print(f"\nResultados guardados en {archivo}")
+
+    evaluar_archivo(archivo, idioma, modelo)
 
 
 def menuES():

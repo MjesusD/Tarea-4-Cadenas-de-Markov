@@ -1,0 +1,6 @@
+descripcion,palabras,verbos,sustantivos,adjetivos,diversidad,perplexity,tiene_verbo,tiene_root,dependencias
++2 fichas por cada tarjeta Planeta única utilizada en esta ronda,11,0,3,3,1.0,123.66009702188434,False,True,"Counter({'case': 2, 'det': 2, 'amod': 2, 'nsubj': 1, 'ROOT': 1, 'obj': 1, 'appos': 1, 'obl': 1})"
+Multiplicador de 3 2 de crear una carta de cualquier otro palo que anote puntos,15,2,3,0,0.8666666666666667,129.19446266111177,True,True,"Counter({'det': 3, 'case': 2, 'acl': 2, 'obj': 2, 'ROOT': 1, 'nummod': 1, 'flat': 1, 'mark': 1, 'nmod': 1, 'nsubj': 1})"
+Otorga +25 fichas por cada categoría descartado la categoría cambia en cada ronda,13,2,4,1,0.8461538461538461,135.76416605138897,True,True,"Counter({'nsubj': 3, 'det': 3, 'case': 2, 'flat': 1, 'obj': 1, 'amod': 1, 'ROOT': 1, 'obl': 1})"
+Multiplica por 3 si la mano de la ronda,9,0,3,0,0.8888888888888888,56.359585379053456,False,True,"Counter({'case': 2, 'det': 2, 'ROOT': 1, 'nummod': 1, 'mark': 1, 'obl': 1, 'nmod': 1})"
+Mejora el nivel de la ronda,6,1,2,0,1.0,97.73426779993319,True,True,"Counter({'det': 2, 'ROOT': 1, 'obj': 1, 'case': 1, 'nmod': 1})"

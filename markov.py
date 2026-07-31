@@ -1,6 +1,8 @@
 
 from collections import defaultdict, Counter
 import random
+import math
+
 
 
 class MarkovChain:
@@ -107,6 +109,74 @@ class MarkovChain:
             return 0.0
 
         return self.model[state][word] / total
+
+
+    def perplexity(self, sentence):
+        """
+        Calcula la perplexity de una descripción utilizando el modelo
+        entrenado de Markov.
+
+        Parámetros
+        ----------
+        sentence : str | list
+            Descripción a evaluar.
+
+        Retorna
+        -------
+        float
+            Perplexity de la descripción.
+        """
+
+        if isinstance(sentence, str):
+            sentence = sentence.split()
+
+        tokens = ["<START>"] * self.order
+        tokens.extend(sentence)
+        tokens.append("<END>")
+
+        vocab_size = len(self.vocabulary)
+
+        log_probability = 0.0
+        total_words = 0
+
+        for i in range(len(tokens) - self.order):
+
+            state = tuple(tokens[i:i+self.order])
+            next_word = tokens[i+self.order]
+
+            transitions = self.model.get(state, Counter())
+
+            total = sum(transitions.values())
+
+            # Suavizado de Laplace
+            probability = (
+                transitions[next_word] + 1
+            ) / (
+                total + vocab_size
+            )
+
+            log_probability += math.log2(probability)
+
+            total_words += 1
+
+        return 2 ** (-log_probability / total_words)
+
+
+    def average_perplexity(self, descriptions):
+        """
+        Calcula la perplexity promedio de varias descripciones.
+        """
+
+        if len(descriptions) == 0:
+            return 0
+
+        total = 0
+
+        for description in descriptions:
+
+            total += self.perplexity(description)
+
+        return total / len(descriptions)
 
 
     def print_statistics(self):
